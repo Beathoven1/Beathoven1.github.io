@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'Charter';
+  src: url('../../fonts/Charter-Bold.eot');
+  src: url('../../fonts/Charter-Bold.eot@') format('embedded-opentype'),
+       url('../../fonts/Charter-Bold.svg') format('svg'),
+       url('../../fonts/Charter-Bold.ttf') format('truetype'),
+       url('../../fonts/Charter-Bold.woff') format('woff'),
+       url('../../fonts/Charter-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
